@@ -9,3 +9,8 @@ function getRes() {
     res.value=eval(res.value)
     
 }
+function clearBtn(){
+    var res =document.getElementById("result");
+   // console.log(res.value)
+    res.value ="";
+}
