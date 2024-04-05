@@ -14,8 +14,10 @@
     margin-top: 5px;
     width: 40px;
     height: 22px;
+    background-color: grey;
+
 }
-.btn{
-    width: 40px;
-    height: 22px;
+.ress{
+    background-color: grey;
 }
+
